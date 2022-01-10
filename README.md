@@ -39,5 +39,5 @@ UCSB-B200-M5 FLMD90701A3 sys/chassis-1/blade-6
 *Find this file at [here](https://github.com/imtrinity94/ciscoUcsManagerAndPython/blob/ac33a7b028a3b1301b182b268c6b5588057aa08c/get_blade_info.py)*
 * More advanced operations and classes are mentioned in [Cisco UCS Python SDK Official Guide for 0.8.3.pdf](https://github.com/imtrinity94/ciscoUcsManagerAndPython/blob/5d2e60a28ba35c1bb5b9fb7603276f6a14887130/Cisco%20UCS%20Python%20SDK%20Official%20Guide%20for%200.8.3.pdf)
 
-
+* Remember, vcssdk returns python dicts most of the times, so using vars() funtion will show a detailed output.
 
